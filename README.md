@@ -1,4 +1,4 @@
-# CS 360 — Project TA Groups
+# CS 360 - Project TA Groups
 
 This repository tracks the student groups I am guiding as a **Project TA** for **CS 360: Software Engineering**.
 
@@ -13,7 +13,7 @@ This repository tracks the student groups I am guiding as a **Project TA** for *
 
 ---
 
-## Group 3 — Inator
+## Group 3 - Inator
 
 **Project:** Campus Event Discovery and Management Platform  
 **GitHub:** [https://github.com/SE-Group-Project-inator](https://github.com/SE-Group-Project-inator)
@@ -30,7 +30,7 @@ This repository tracks the student groups I am guiding as a **Project TA** for *
 
 ---
 
-## Group 9 — Violet
+## Group 9 - Violet
 
 **Project:** Peer Tutoring Marketplace  
 **GitHub:** [https://github.com/CS360S26violet/violet-peertutoring](https://github.com/CS360S26violet/violet-peertutoring)
@@ -47,7 +47,7 @@ This repository tracks the student groups I am guiding as a **Project TA** for *
 
 ---
 
-## Group 23 — Cobalt
+## Group 23 - Cobalt
 
 **Project:** Campus Event Discovery and Management Platform  
 **GitHub:** [https://github.com/CS360S26cobalt](https://github.com/CS360S26cobalt)
@@ -64,7 +64,7 @@ This repository tracks the student groups I am guiding as a **Project TA** for *
 
 ---
 
-## Group 45 — Softly
+## Group 45 - Softly
 
 **Project:** Campus Event Discovery and Management Platform  
 **GitHub:** [https://github.com/CS360S26softly](https://github.com/CS360S26softly)
